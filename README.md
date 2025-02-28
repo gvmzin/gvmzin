@@ -56,7 +56,7 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
     title="Bizagi"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/5/55/Bizagi_Logo.png" 
+    src="https://upload.wikimedia.org/wikipedia/commons/5/53/Bizagi_Logo.svg" 
 />
 
 <br/>
