@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gustavo Morais
 
-**Desenvolvedor Backend**
+**`Desenvolvedor Backend`**
 
 Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando Desenvolvimento de Sistemas e busco me especializar na área de programação backend. Sou apaixonado por tecnologia e games. Também estou no [LinkedIn](https://www.linkedin.com/in/devgustavomorais/) conectando com outros profissionais da área.
 
@@ -20,11 +20,11 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
 
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -33,30 +33,6 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NoSQL" 
-    title="NoSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <img 
     align="left" 
@@ -88,3 +64,4 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
