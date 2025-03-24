@@ -20,19 +20,19 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt=".NET" 
+    title=".NET"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" 
 />
 <img 
     align="left" 
@@ -44,11 +44,11 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
 />
 <img 
     align="left" 
-    alt="NoSQL" 
-    title="NoSQL"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
@@ -62,13 +62,11 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/2e5faf969774b92ac9167b619b5280c39e680af67ba95850ddcda26b5b7c1224/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67766d7a696e2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d74727565266c6f63616c653d70742d6272" 
+    src="https://camo.githubusercontent.com/2e5faf969774b92ac9167b619b5280c39e680af67ba95850ddcda26b5b7c1224/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67766d7a696e2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6d6974733d74727565266c6f63616c653d70742d6272" 
   />
 
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&theme=tokyon
