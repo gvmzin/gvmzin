@@ -28,14 +28,6 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
 />
 <img 
     align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -66,7 +58,4 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
   />
 
   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&theme=tokyon
+      align="left
