@@ -54,8 +54,13 @@ Me chamo Gustavo Morais, tenho 20 anos e sou natural da Bahia. Atualmente, estou
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/2e5faf969774b92ac9167b619b5280c39e680af67ba95850ddcda26b5b7c1224/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67766d7a696e2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6d6974733d74727565266c6f63616c653d70742d6272" 
+    src="https://github-readme-stats.vercel.app/api?username=gvmzin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" 
   />
 
   <img 
-      align="left
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
