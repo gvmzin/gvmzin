@@ -139,7 +139,7 @@ Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou
 ### 🌐 Portfólio Completo
 
 Para uma visão mais detalhada dos meus projetos e experiência:  
-🔗 [Acessar Portfólio](https://gvmzin.github.io/portfolio)
+🔗 [Acessar Portfólio](https://gvmzin.github.io/Portfolio)
 
 ---
 
