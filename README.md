@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Gustavo Morais
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou cursando Desenvolvimento de Sistemas e busco me especializar na área de programação backend. Sou apaixonado por tecnologia e games. Também estou no [LinkedIn](https://www.linkedin.com/in/devgustavomorais/) conectando com outros profissionais da área.
+Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou cursando Análise  e Desenvolvimento de Sistemas, e busco me especializar na área de programação Fullstack. Sou apaixonado por tecnologia e games. Também estou no [LinkedIn](https://www.linkedin.com/in/devgustavomorais/) conectando com outros profissionais da área.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/devgustavomorais/">
