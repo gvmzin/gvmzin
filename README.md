@@ -125,7 +125,7 @@ Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou
 
 - **Mostruário de Beats**  
   Site para biblioteca de beats de um produtor musical.  
-  🔗 [Ver Projeto Online](https://gvmzin.github.io/beatsmostruario)
+  🔗 [Ver Projeto Online](https://gvmzin.github.io/SiteXand)
 
 ---
 
@@ -139,7 +139,7 @@ Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou
 ### 🌐 Portfólio Completo
 
 Para uma visão mais detalhada dos meus projetos e experiência:  
-🔗 [Acessar Portfólio](https://gvmzin.github.io/Portfolio)
+🔗 [Acessar Portfólio]((https://gvmzin.github.io/Portifolio))
 
 ---
 
