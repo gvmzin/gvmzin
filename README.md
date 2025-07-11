@@ -88,7 +88,7 @@ Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou
 ---
 
 ### 📊 Estatísticas
-
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -103,8 +103,13 @@ Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</p>
 
-<br><br><br><br><br><br>
+<br><br><br>
+
+<br><br><br>
+
+
 
 ---
 
