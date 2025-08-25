@@ -1,154 +1,64 @@
-# 👨🏻‍💻 Gustavo Morais
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-**`Desenvolvedor FullStack`**
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/devgustavomorais/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://gvmzin.github.io/Portifolio/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:gustavo.morais@ba.estudante.senai.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
-Me chamo Gustavo Morais, tenho 21 anos e sou natural da Bahia. Atualmente, estou focado em aprofundar meus conhecimentos em React, ASP.NET e Entity Framework, buscando me tornar um especialista em desenvolvimento Fullstack. Sou apaixonado por tecnologia e games, e estou sempre em busca de novos desafios e oportunidades para crescer na área. Também estou no [LinkedIn](https://www.linkedin.com/in/devgustavomorais/) conectando com outros profissionais da área.
+<h1 align="center">
+  Olá 👋, eu sou Gustavo Morais
+</h1>
+<h3 align="center">
+  Desenvolvedor FullStack | Apaixonado por transformar ideias em código
+</h3>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/devgustavomorais/">
-        <img 
-            alt="LinkedIn" 
-            title="Veja meu perfil no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-        />
-    </a>
+---
+
+### 🚀 Sobre Mim
+
+Sou um Desenvolvedor FullStack, focado em criar soluções web robustas e intuitivas. Atualmente, estou aprofundando meus conhecimentos no ecossistema .NET para o backend e em frameworks modernos como Angular e React para o frontend, sempre buscando as melhores práticas de mercado.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (UCSAL) e **Técnico em Desenvolvimento de Sistemas** (SENAI).
+- 🌱 Focado em aprimorar minhas habilidades em **C# / .NET**, **Angular**, **React** e **boas práticas de arquitetura de software**.
+- 💼 Buscando ativamente por **oportunidades e desafios** na área de desenvolvimento para aplicar meu conhecimento e crescer profissionalmente.
+
+---
+
+### 🛠️ Habilidades & Ferramentas
+
+| Backend                                                                                                                              | Frontend                                                                                                                                                                                                                                                                      | Banco de Dados                                                                                                                                                                                                                                                                                               | Ferramentas & DevOps                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>                                                                                                                                                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>                                                                                                                                                   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>                                                 |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>                                                                                                                                                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>                                                                                                                                                                 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>                                       |
+|                                                                                                                                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>                                                                                                                                            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>                                                                                                                                                                     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>                                     |
+|                                                                                                                                      |  |                                                                                                                                                                                                                                                                                                              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>                                           |
+
+---
+
+### ✨ Projetos em Destaque
+
+| Projeto                                             | Descrição                                                                               | Tecnologias                                                                                                                                                                                                                             | Links                                                                                             |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Gerenciador de Tarefas** | Aplicação web fullstack para organização de tarefas.                                    | <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> | [🔗 Ver no GitHub](https://github.com/gvmzin/GerenciadorTarefas)                                 |
+| **Minimal API em .NET 8** | API RESTful com .NET 8, focada em arquitetura limpa e autenticação JWT.                   | <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />                                                                    | [🌐 Ver Online](http://3.144.152.177/swagger/index.html)  |
+| **Mostruário de Beats** | Site para um produtor musical exibir e organizar seus beats.                              | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> | [🌐 Ver Online](https://gvmzin.github.io/SiteXand)                                                |
+| **QRCodePro** | Gerador de QR Code com um sistema simples de login via local storage.                   | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> | [🌐 Ver Online](https://gvmzin.github.io/qrcodejsbasic/)                                          |
+| **EfestIA** | _(Em desenvolvimento)_ Plataforma de pentesting com integração de IA.                   | <img src="https://img.shields.io/badge/Planejamento-blue" />                                                                                                                                                                            |                                                                                                   |
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gvmzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML5" 
-    title="HTML5" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS3" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br><br><br>
-
----
-
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gvmzin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight" 
-  />
-  
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmzin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br><br><br>
-
-<br><br><br>
-
-
-
----
-
-### 💼 Projetos em Destaque
-
-- **Gerenciador de Tarefas**  
-  Aplicação web fullstack com frontend em React (Bootstrap, Reactstrap, http-proxy-middleware) e backend em ASP.NET Core (C#, Entity Framework Core).  
-  🔗 [Ver Projeto no GitHub](https://github.com/gvmzin/GerenciadorTarefas)
-
-- **QRCodePro**  
-  Gerador de QR Code simples com sistema de login (local storage).  
-  🔗 [Ver Projeto Online](https://gvmzin.github.io/QRCodePro)
-
-- **EfestIA**  
-  Plataforma de pentesting com IA integrada *(projeto em desenvolvimento)*.
-
-- **Mostruário de Beats**  
-  Site para biblioteca de beats de um produtor musical.  
-  🔗 [Ver Projeto Online](https://gvmzin.github.io/SiteXand)
-
----
-
-### 🎓 Formação Acadêmica
-
-- **Análise e Desenvolvimento de Sistemas (Superior)** – UCSAL *(2025 - 2027)*  
-- **Desenvolvimento de Sistemas (Técnico)** – SENAI *(2024 - 2026)*
-
----
-
-### 🌐 Portfólio Completo
-
-Para uma visão mais detalhada dos meus projetos e experiência:  
-🔗 [Acessar Portfólio](https://gvmzin.github.io/Portifolio)
-
----
-
-### 👋 Vamos Conversar?
-
-Tenho interesse em oportunidades na área de **Desenvolvimento Fullstack**. Se você tem um projeto em mente, uma vaga em aberto ou apenas quer trocar uma ideia, sinta-se à vontade para entrar em contato!
-
-📫 **Email**: gustavo.morais@ba.estudante.senai.br  
-💼 **LinkedIn**: [devgustavomorais](https://www.linkedin.com/in/devgustavomorais/)
